@@ -1,0 +1,4 @@
+/video/*
+!/video/input.mp4
+!/video/trackbar_records.json
+!/video/*.gif
